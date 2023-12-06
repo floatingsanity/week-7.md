@@ -1,0 +1,17 @@
+## vercel link :
+https://card-app7-floatingsanity.vercel.app
+
+## gitripo link :
+https://github.com/floatingsanity/card-app7.git
+
+## What are your take aways with regard to web components?
+### #Web components offer  reusable way to create and package UI elements for the web.It allows components to be independent and easily integrated into 
+### different projects.This can enhance code organization, maintainability, and collaboration among developers.
+
+## Are they here to stay? Is it the future? Is the future now? What would Brad say
+### While web components provide modularity and encapsulation, other frameworks and libraries also play essential roles.They're only going to get better 
+### and more complex.
+
+## What are some additional ways to make web components that Brad mentions? Link to some examples that we aren't covering in class.
+### Using a Compiler or Transpiler , or a  low-code or no-code platform that allows you to visually design and configure components without
+### writing traditional code manually
